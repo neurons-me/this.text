@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suiGn/this.text.git"
+    "url": "git+https://github.com/neurons-me/this.text.git"
   },
   "homepage": "https://www.npmjs.com/package/this.text",
   "docs": "https://suiGn.github.io/this.text",
